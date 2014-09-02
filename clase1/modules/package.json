@@ -1,0 +1,21 @@
+{
+  "name": "amazingmusicians",
+  "version": "1.0.0",
+  "description": "A collection of the best artists in the world",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "spotify-metadata-search": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "best",
+    "music",
+    "justin"
+  ],
+  "author": "Hector Flores",
+  "license": "ISC"
+}
